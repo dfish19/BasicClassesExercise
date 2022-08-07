@@ -1,0 +1,15 @@
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.csproj.AssemblyReference.cache
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.AssemblyInfoInputs.cache
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.AssemblyInfo.cs
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\net6.0\BasicClassesExercise.exe
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\net6.0\BasicClassesExercise.deps.json
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\net6.0\BasicClassesExercise.runtimeconfig.json
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\net6.0\BasicClassesExercise.dll
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\net6.0\BasicClassesExercise.pdb
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.dll
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\refint\BasicClassesExercise.dll
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.pdb
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\BasicClassesExercise.genruntimeconfig.cache
+C:\Users\dfish\Desktop\Repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\net6.0\ref\BasicClassesExercise.dll
